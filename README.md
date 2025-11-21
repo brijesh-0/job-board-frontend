@@ -2,7 +2,7 @@
 
 A fast, responsive job board built with **React 19 + TypeScript + TailwindCSS**.
 
-Two user roles:
+Two user Roles:
 
 - **Job Seekers** – search, filter, apply, track applications (Kanban)
 - **Employers** – post jobs, review applications, manage postings
