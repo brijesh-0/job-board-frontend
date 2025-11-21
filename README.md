@@ -15,7 +15,7 @@ Two user Roles:
 - Kanban board for application tracking
 - Employer dashboard to manage jobs & candidates
 - Secure login (HttpOnly cookies)
-- Role-based access
+- Role-based Access
 
 ## Tech Stack
 
