@@ -26,6 +26,13 @@ Two user roles:
 - Vite
 - Axios + Context API
 
+## Screenshots
+
+1. Browse Jobs Page ![](./screenshots/browse-jobs.png)
+2. My Job Postings ![](./screenshots/job-postings.png)
+3. Applications Submitted ![](./screenshots/submitted.png)
+4. Candidate dashboard ![](./screenshots/cdash.png)
+
 ## Quick Start
 
 ```bash
@@ -57,6 +64,6 @@ App runs at: http://localhost:5173
 
 ## Notes
 
-- Backend Repo:
+- Backend Repo: https://github.com/brijesh-0/job-board-backend
 - No real-time updates (refresh to see changes)
 - Resume uploads: PDF only, max 5MB
